@@ -1,0 +1,6 @@
+.
+├── resume.docx
+├── resume.pdf
+└── tree.txt
+
+1 directory, 3 files
